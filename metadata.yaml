@@ -1,11 +1,16 @@
 _repo: The-Rambler-Club-Afloat_67989
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67989-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheppard, W. Crispin (William Henry)
     gutenberg_agent_id: '54565'
     url: http://www.gutenberg.org/2009/agents/54565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67989#The-Rambler-Club-Afloat
 gutenberg_issued: '2022-05-04'
 identifiers:
   gutenberg: '67989'
